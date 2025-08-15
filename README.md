@@ -19,9 +19,6 @@ Talent Corner HR Services Franchisee Sales data across 12 years.
 
 
 
-
-
 5.Screenshot/Demos : 
-
-
+<img width="1323" height="740" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/46bb957a-53b2-467f-aad6-57124eb37336" />
 
