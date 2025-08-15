@@ -17,10 +17,10 @@ There is a lack of a centralized, real-time view of the franchise sales funnel. 
 • Goal of the Dashboard:  <br>
 To provide stakeholders with a clear, at-a-glance overview of franchise sales performance. The goal is to empower the management to identify successful marketing channels, manage sales team efficiency, and refine targeting strategies by understanding who the most successful franchisees are. <br>
 • Walkthrough of Key Visuals: <br>
-   1. Distribution by Month/Year & Income: A line chart that tracks the number of successful franchise agreements over time, revealing sales trends and seasonality. <br>
-   2. Agreements by Source & Campaign: A donut chart that highlights the most effective lead generation channels (e.g., Website, Facebook, Expo), showing where marketing efforts are paying off. <br>
-   3. Turn Around Time Distribution by Leader & Status: A line chart that measures the performance and efficiency of each sales team leader based on their      turnaround time and the status of their leads. <br>
-   4. Income Trends by Age Group & Sector: A pie chart that provides a detailed demographic profile of the franchisees, segmenting them by income, age, and professional background. <br>
+1. Distribution by Month/Year & Income: A line chart that tracks the number of successful franchise agreements over time, revealing sales trends and seasonality. <br>
+2. Agreements by Source & Campaign: A donut chart that highlights the most effective lead generation channels (e.g., Website, Facebook, Expo), showing where marketing efforts are paying off. <br>
+3. Turn Around Time Distribution by Leader & Status: A line chart that measures the performance and efficiency of each sales team leader based on their      turnaround time and the status of their leads. <br>
+4. Income Trends by Age Group & Sector: A pie chart that provides a detailed demographic profile of the franchisees, segmenting them by income, age, and professional background. <br>
 • Business Impact & Insights: <br>
    This dashboard provides actionable insights that can directly drive business growth:  <br>
    1. Optimized Marketing Spend: By identifying top-performing sources like 'Website' and 'Facebook', the company can reallocate its marketing budget for maximum ROI. <br>
