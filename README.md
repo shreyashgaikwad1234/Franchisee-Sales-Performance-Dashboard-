@@ -21,7 +21,7 @@ To provide stakeholders with a clear, at-a-glance overview of franchise sales pe
    2. Agreements by Source & Campaign: A donut chart that highlights the most effective lead generation channels (e.g., Website, Facebook, Expo), showing where marketing efforts are paying off. <br>
    3. Turn Around Time Distribution by Leader & Status: A line chart that measures the performance and efficiency of each sales team leader based on their      turnaround time and the status of their leads. <br>
    4. Income Trends by Age Group & Sector: A pie chart that provides a detailed demographic profile of the franchisees, segmenting them by income, age, and professional background. <br>
- • Business Impact & Insights: <br>
+• Business Impact & Insights: <br>
 This dashboard provides actionable insights that can directly drive business growth:  <br>
    1. Optimized Marketing Spend: By identifying top-performing sources like 'Website' and 'Facebook', the company can reallocate its marketing budget for maximum ROI. <br>
    2. Targeted Sales Strategy: Insights into the key demographics (e.g., location, age, industry) of successful franchisees allow the sales team to create a more focused and effective outreach strategy. <br>
